@@ -1,6 +1,6 @@
 # projeto-churrascometro
 
-<h2>Sitema para calcular a quantidade de comida e bebida que é necessária para um churrasco,
+<h2>Sistema para calcular a quantidade de comida e bebida que é necessária para um churrasco,
 com base nas informações seguintes:</h2>
 
 <p>Carne - 400gr por pessoa + de 6horas - 650gr
